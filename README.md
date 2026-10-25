@@ -1,278 +1,371 @@
 
 <!-- ===================================================== -->
-<!--              SADID AHMED TURJO                        -->
-<!--                GITHUB PROFILE                         -->
+<!--           SADID AHMED TURJO | DEVELOPER UNIVERSE       -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-  <!-- HERO ANIMATION -->
   <img
     src="https://i.pinimg.com/originals/3a/a4/6f/3aa46f5701fc6ed92234ea0a9f86e2cd.gif"
     width="100%"
-    alt="Animated developer banner"
+    alt="Developer universe animation"
   />
+
+  <br/><br/>
+
+  <h1>⚡ SADID AHMED TURJO</h1>
+
+  <h3>🧑‍💻 Code Architect &nbsp; × &nbsp; 🤖 AI Explorer &nbsp; × &nbsp; 🔬 Research Mind</h3>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=600&lines=I+turn+coffee+%E2%98%95+into+code.;I+turn+ideas+%F0%9F%92%A1+into+projects.;I+turn+curiosity+%F0%9F%A7%A0+into+research.;Still+debugging.+Still+dreaming.+Still+building."
+    alt="Animated developer tagline"
+  />
+
+  <br/><br/>
+
+  <a href="https://github.com/turjo4114">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Universe-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/turjo4114">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/turjo4114">
+    <img src="https://img.shields.io/badge/HackerRank-My%20Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=turjo4114&style=for-the-badge&color=0891b2&label=CURIOUS+VISITORS" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧬 CHARACTER SELECT
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h2>💻</h2>
+      <b>THE BUILDER</b>
+      <br/><br/>
+      APIs, backends & full-stack apps
+    </td>
+    <td align="center" width="33%">
+      <h2>🧠</h2>
+      <b>THE EXPLORER</b>
+      <br/><br/>
+      AI, deep learning & LLMs
+    </td>
+    <td align="center" width="33%">
+      <h2>🔬</h2>
+      <b>THE RESEARCHER</b>
+      <br/><br/>
+      Experiments, vision & discovery
+    </td>
+  </tr>
+</table>
+
+> 🇧🇩 Bangladesh-born curiosity. Engineer's mindset. Researcher's obsession.
+
+</div>
+
+## 🖥️ `whoami`
+
+```text
+┌─────────────────────────────────────────────────┐
+│  USER       : Sadid Ahmed Turjo                 │
+│  MODE       : BUILD + EXPLORE + EXPERIMENT      │
+│  SPECIALTY  : Software Engineering & AI/ML      │
+│  CURRENTLY  : Leveling up my engineering skills │
+│  FUEL       : Curiosity, creativity & coffee ☕  │
+│  MISSION    : Turn ideas into real-world impact │
+└─────────────────────────────────────────────────┘
+```
+
+### ⚡ My brain, in 6 seconds
+
+- 🏗️ **I BUILD** — Backends, APIs, web apps and useful tools.
+- 🧠 **I EXPLORE** — AI, neural networks, computer vision and LLMs.
+- 🧪 **I EXPERIMENT** — Models, architectures, ideas and research.
+- 🎨 **I DESIGN** — Interfaces that feel clean and intuitive.
+- 🧩 **I SOLVE** — Problems that make me think twice.
+- 🚀 **I LEARN** — Because the next breakthrough starts with curiosity.
+
+<details>
+  <summary>🎮 My developer personality — click to reveal</summary>
 
   <br/>
 
-  <h1>👋 Hi, I'm Sadid Ahmed Turjo</h1>
+  🧩 Problem-solving enthusiast
 
-  <h3>💻 Software Engineering &nbsp;|&nbsp; 🤖 AI/ML Research &nbsp;|&nbsp; 🎨 UI/UX</h3>
+  🔍 Curious by default
 
-  <p>
-    <em>Building intelligent solutions, exploring new technologies, and turning ideas into reality.</em>
-  </p>
+  🛠️ Builder by choice
 
-  <p>
-    🇧🇩 Bangladesh
-  </p>
+  📚 Lifelong learner
 
-  <!-- SOCIAL LINKS -->
-  <a href="https://www.linkedin.com/in/turjo4114">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/turjo4114">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.facebook.com/sadid.ahmed.turjo/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/creepy_turjo/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/turjo4114">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+  🌌 Interested in what's next
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=turjo4114&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+  **My rule:** If I don't understand it yet, it's an invitation to learn.
 
-</div>
+</details>
 
 ---
 
+## 🧰 MY INVENTORY
 
-## ❤️ What I Like
+<div align="center">
 
-I'm driven by curiosity, continuous learning, and the challenge of solving complex problems. I enjoy exploring emerging technologies, experimenting with new ideas, and building meaningful projects that bridge the gap between software engineering and artificial intelligence.
+### 💻 Languages — My weapons of choice
 
-- 💡 Solving challenging programming problems with analytical thinking.
-- 🧑‍💻 Writing clean, readable, and maintainable code.
-- 🤖 Exploring artificial intelligence and intelligent systems.
-- 🔬 Conducting research and experimenting with deep learning models.
-- 🎨 Designing clean, intuitive, and user-centered interfaces.
-- 🚀 Turning ideas into practical projects that solve real-world problems.
-- 📚 Learning new technologies, frameworks, and concepts.
-- 🌍 Exploring emerging technologies and the future of software engineering.
+<img src="https://skillicons.dev/icons?i=cs,python,cpp,java,c,dart&theme=dark" alt="Programming languages"/>
+
+### ⚙️ Engineering — Where ideas become software
+
+<img src="https://skillicons.dev/icons?i=dotnet,spring,react,nodejs,vite,tailwind,html,css&theme=dark" alt="Development technologies"/>
+
+### 🤖 AI Lab — Where I experiment
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy&theme=dark" alt="AI tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/YOLO11-Detection-7C3AED?style=flat-square" alt="YOLO11"/>
+<img src="https://img.shields.io/badge/Image-Segmentation-0891B2?style=flat-square" alt="Image segmentation"/>
+<img src="https://img.shields.io/badge/LLMs-Exploration-DB2777?style=flat-square" alt="LLMs"/>
+
+### 🗄️ Data, DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws,git,github,linux,bash&theme=dark" alt="Data and infrastructure"/>
+
+### 🎨 Design & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,androidstudio,anaconda,postman&theme=dark" alt="Design and developer tools"/>
+
+</div>
+
+<details>
+  <summary>🧪 More about my technical interests</summary>
+
+  - 🏗️ Clean architecture, REST APIs and backend engineering
+  - 🗄️ Data modeling and database design
+  - 🧠 Neural networks and deep learning architectures
+  - 👁️ Object detection and semantic segmentation
+  - 🫀 Medical image analysis and domain adaptation
+  - 💬 LLM-powered applications
+  - ☁️ Cloud, Docker and CI/CD
+  - 🎨 User flows, wireframes and design systems
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
+## 🚀 MISSIONS UNLOCKED
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,dart&theme=dark" alt="Programming languages"/>
-</div>
-
-### ⚙️ Frameworks & Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,react,nodejs,vite,tailwind,html,css&theme=dark" alt="Frameworks and web development"/>
-</div>
-
-### 🤖 AI, Machine Learning & Research
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy&theme=dark" alt="AI and machine learning technologies"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/YOLO11-Object%20Detection-111827?style=for-the-badge" alt="YOLO11"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Research-7C3AED?style=for-the-badge" alt="Computer vision research"/>
-  <img src="https://img.shields.io/badge/LLMs-Exploring-0891B2?style=for-the-badge" alt="Large language models"/>
-</div>
-
-### 🗄️ Databases & Infrastructure
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws,git,github,linux,bash&theme=dark" alt="Databases and infrastructure"/>
-</div>
-
-### 🎨 Design & Development Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,androidstudio,anaconda,postman&theme=dark" alt="Design and development tools"/>
-</div>
-
----
-
-## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🏥 Medispring
+### 🏥 `01` — MEDISPRING
 
-**Hospital Appointment System**
+**The Healthcare Mission**
 
-A backend-focused hospital appointment management application.
+Building a hospital appointment management system.
 
-- ⚙️ ASP.NET Core Web API
-- 🏗️ N-Tier Architecture
-- 🗄️ Entity Framework Core
-- 🔐 JWT Authentication
+`C#` `ASP.NET Core` `EF Core` `JWT`
 
-**Stack:** C# · ASP.NET Core · EF Core
+🔐 Authentication · 🏗️ N-tier architecture
 
-</td>
-    <td width="50%" valign="top">
-
-### 🚗 DriveEase
-
-**Vehicle Rental Management System**
-
-A full-stack application for vehicle rental management.
-
-- ☕ Spring Boot backend
-- ⚛️ React frontend
-- 🗄️ Database integration
-- 🚘 Rental management workflows
-
-**Stack:** Java · Spring Boot · React
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🚦 Vehicle Detection & Segmentation
-
-**Bangladeshi Traffic Scene Research**
-
-Research focused on vehicle understanding in local traffic scenes.
-
-- 🚌 Vehicle detection and segmentation
-- 🧠 YOLO11-based detection
-- 🖼️ U-Net and ResNet50-based segmentation
-- 🎯 Attention mechanisms
-- 🔬 Divisive Normalization experiments
-
-**Stack:** Python · PyTorch · Computer Vision
+<a href="https://github.com/turjo4114?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
+</a>
 
 </td>
     <td width="50%" valign="top">
 
-### 🫀 Cardiac MRI Segmentation
+### 🚗 `02` — DRIVEEASE
 
-**Source-Free Test-Time Adaptation**
+**The Mobility Mission**
 
-Research exploring adaptation and reliable predictions for medical image segmentation.
+A vehicle rental management application.
 
-- 🧠 Deep learning for medical imaging
-- 🎯 Pseudo-labeling strategies
-- 🔄 Consistency-based adaptation
-- 📊 Dice and IoU evaluation
+`Java` `Spring Boot` `React`
 
-**Stack:** Python · PyTorch · Medical Imaging
+🚘 Rental workflows · 🌐 Full-stack development
+
+<a href="https://github.com/turjo4114?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
+</a>
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 📊 System Monitor
+### 🚦 `03` — TRAFFIC VISION
 
-**Desktop Monitoring Application**
+**The Computer Vision Mission**
 
-A Python desktop application for monitoring and visualizing system information.
+Understanding vehicles in Bangladeshi traffic scenes.
 
-- 🖥️ Tkinter interface
-- 📈 Data visualization
-- ⚙️ Python-based implementation
+`Python` `PyTorch` `YOLO11`
 
-**Stack:** Python · Tkinter · Matplotlib
+🚌 Vehicle detection · 🖼️ Segmentation
+
+🧠 U-Net · ResNet50 · Attention · Divisive Normalization
+
+<a href="https://github.com/turjo4114?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
+</a>
 
 </td>
     <td width="50%" valign="top">
 
-### 🎨 UI/UX Design Portfolio
+### 🫀 `04` — CARDIAC AI
 
-**DriveEase · TripNest · CourierOps**
+**The Medical Imaging Mission**
 
-Interface design concepts focused on usability and user experience.
+Exploring source-free test-time adaptation for cardiac MRI segmentation.
 
-- 🗺️ User flows and wireframes
-- 🎨 Design systems
-- 🖱️ Interactive prototypes
-- 📦 Logistics dashboard concepts
+`Python` `PyTorch` `Deep Learning`
 
-**Tools:** Figma · UI/UX · Prototyping
+🎯 Pseudo-labeling · 🔄 Consistency
+
+📊 Dice · IoU · Reliability
+
+<a href="https://github.com/turjo4114?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
+</a>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📊 `05` — SYSTEM MONITOR
+
+**The Desktop Mission**
+
+A Python desktop monitoring and visualization application.
+
+`Python` `Tkinter` `Matplotlib`
+
+🖥️ Desktop UI · 📈 Visualization
+
+<a href="https://github.com/turjo4114?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
+</a>
+
+</td>
+    <td width="50%" valign="top">
+
+### 🎨 `06` — DESIGNVERSE
+
+**The Creative Mission**
+
+Exploring digital experiences through DriveEase, TripNest and CourierOps.
+
+`Figma` `UI/UX` `Prototyping`
+
+🗺️ User flows · 🧩 Wireframes
+
+🎨 Design systems · 🖱️ Interactive prototypes
+
+<a href="https://github.com/turjo4114?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github" alt="Explore projects"/>
+</a>
 
 </td>
   </tr>
 </table>
 
-<div align="center">
-
-  <a href="https://github.com/turjo4114?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
-  </a>
+<a href="https://github.com/turjo4114?tab=repositories">
+  <img src="https://img.shields.io/badge/🗂️_ENTER_THE_PROJECT_ARCHIVE-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Explore all repositories"/>
+</a>
 
 </div>
 
 ---
 
-## 🔬 Research Interests
+## 🔬 THE RESEARCH DIMENSION
 
 <div align="center">
 
-| 🧠 Research Area | 🔍 Focus |
+| 🧪 Mission | 🧠 The Interesting Part |
 |:---|:---|
-| 🤖 Deep Learning | Neural networks and model architectures |
-| 🚦 Computer Vision | Traffic scene understanding and vehicle segmentation |
-| 🫀 Medical Imaging | Cardiac MRI segmentation |
-| 🔄 Domain Adaptation | Source-free test-time adaptation |
-| 🛡️ Reliable AI | Consistency, pseudo-labels, and evaluation |
-| 💬 Generative AI | LLMs and AI-powered applications |
+| 🚦 Traffic AI | Teaching models to understand Bangladeshi roads |
+| 🖼️ Segmentation | Finding meaningful structure in complex images |
+| 🫀 Cardiac MRI | Exploring adaptation in medical imaging |
+| 🎯 Model Reliability | Investigating consistency and prediction quality |
+| 💬 Generative AI | Exploring LLMs and intelligent software |
 
 </div>
 
----
-
-## 🎯 Currently Learning & Building
-
-- 🔹 Advanced ASP.NET Core and backend architecture
-- 🔹 REST API design, authentication, and testing
-- 🔹 Data structures and algorithms
-- 🔹 Docker, CI/CD, and cloud deployment
-- 🔹 Advanced PyTorch and deep learning research
-- 🔹 LLM applications and AI integration
-- 🔹 Full-stack development and software design
-- 🔹 UI/UX principles and design systems
+> 🔍 Not just training models. Understanding why they work, when they fail, and how they can improve.
 
 ---
 
-## 📊 GitHub Analytics
+## 🧭 NEXT QUESTS
+
+<div align="center">
+
+| 🎯 Quest | ⚙️ Focus |
+|:---|:---|
+| 🏗️ Backend Mastery | ASP.NET Core · Architecture · Testing |
+| 🐳 Ship It | Docker · CI/CD · Cloud |
+| 🧠 AI Lab | PyTorch · Deep Learning · Research |
+| 💬 Intelligence Layer | LLMs · AI Integration |
+| 🌐 Build End-to-End | Full-stack applications |
+| 🎨 Design Better | UI/UX · Design Systems |
+
+</div>
+
+<details>
+  <summary>📜 My developer code of conduct</summary>
+
+  <br/>
+
+  ```text
+  01. Stay curious.
+  02. Build before you boast.
+  03. Measure before you assume.
+  04. Debug the problem, not the person.
+  05. Learn from every experiment.
+  06. Make useful things.
+  07. Repeat.
+  ```
+
+</details>
+
+---
+
+## 📊 THE GITHUB CONTROL ROOM
 
 <div align="center">
 
   <img
-    height="180"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api?username=turjo4114&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub statistics"
   />
-
   <img
-    height="180"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=turjo4114&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages"
+    alt="Most used languages"
   />
 
   <br/><br/>
 
   <img
-    width="95%"
+    width="90%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=turjo4114&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
   />
@@ -281,7 +374,7 @@ Interface design concepts focused on usability and user experience.
 
 ---
 
-## 🕹️ Contribution Arcade
+## 🕹️ CONTRIBUTION ARCADE
 
 <div align="center">
 
@@ -301,24 +394,23 @@ Interface design concepts focused on usability and user experience.
     />
   </picture>
 
+  <br/>
+
+  <i>Every commit is another move. Every project is another level.</i>
+
 </div>
 
 ---
 
-## 🎧 What I'm Listening To
-
-
-<!-- SPOTIFY RECENTLY PLAYED -->
-
-<h2 align="center">🎧 What I'm Listening To</h2>
+## 🎧 CURRENTLY IN MY SOUNDTRACK
 
 <div align="center">
 
   <a href="https://open.spotify.com/user/31ncxglfgsevu4af66uswoq5hfke">
     <img
-      src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ncxglfgsevu4af66uswoq5hfke&theme=dark&count=5&footer=wave"
-      alt="My recently played Spotify tracks"
       width="400"
+      src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ncxglfgsevu4af66uswoq5hfke&theme=dark&count=5&footer=wave"
+      alt="Recently played Spotify tracks"
     />
   </a>
 
@@ -326,48 +418,53 @@ Interface design concepts focused on usability and user experience.
 
   <a href="https://open.spotify.com/user/31ncxglfgsevu4af66uswoq5hfke">
     <img
-      src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
-      alt="Listen on Spotify"
+      src="https://img.shields.io/badge/🎵_OPEN_MY_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+      alt="Open Spotify profile"
     />
   </a>
 
 </div>
 
-
 ---
 
-## 🤝 Let's Connect
+## 🌐 FIND ME IN THE DIGITAL UNIVERSE
 
 <div align="center">
-
-  <p>I'm always interested in technology, research, creative ideas, and meaningful collaborations.</p>
 
   <a href="https://www.linkedin.com/in/turjo4114">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/turjo4114">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/turjo4114">
-    <img src="https://img.shields.io/badge/HackerRank-Explore%20My%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.facebook.com/sadid.ahmed.turjo/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-Social-0866FF?style=for-the-badge&logo=facebook" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/creepy_turjo/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Life-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/turjo4114">
+    <img src="https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
+  </a>
+  <a href="https://open.spotify.com/user/31ncxglfgsevu4af66uswoq5hfke">
+    <img src="https://img.shields.io/badge/Spotify-Music-1DB954?style=for-the-badge&logo=spotify" alt="Spotify"/>
   </a>
 
   <br/><br/>
 
-  <h3>💡 Learn Deeply · Build Thoughtfully · Innovate Continuously</h3>
+  <h2>⚡ BUILD. BREAK. LEARN. REPEAT. ⚡</h2>
 
-  <p><b>BUILD · LEARN · RESEARCH · INNOVATE</b></p>
+  <p>
+    <i>Somewhere between software engineering and artificial intelligence,<br/>
+    I'm building the future I want to be part of.</i>
+  </p>
+
+  <h3>🧠 STAY CURIOUS &nbsp; · &nbsp; 🚀 KEEP BUILDING</h3>
 
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=120&section=footer"
-    alt="Profile footer banner"
+    alt="Animated profile footer"
   />
 
 </div>
