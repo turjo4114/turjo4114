@@ -52,21 +52,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Software Engineering Enthusiast and AI/ML Researcher** passionate about building scalable software, exploring intelligent systems, and transforming innovative ideas into practical solutions.
-
-My interests span backend engineering, full-stack development, deep learning research, computer vision, and UI/UX design. I enjoy combining strong engineering principles with creative problem-solving to develop efficient, reliable, and user-focused applications.
-
-- 💻 **Backend Engineering:** Building robust backend systems with C# and ASP.NET Core.
-- 🌐 **Full-Stack Development:** Developing modern, responsive, and interactive web applications.
-- 🔌 **API Development:** Designing secure, scalable, and maintainable RESTful APIs.
-- 🗄️ **Database Engineering:** Exploring database design, data modeling, and efficient data management.
-- 🤖 **AI & Deep Learning:** Experimenting with neural networks and intelligent applications.
-- 👁️ **Computer Vision:** Exploring object detection, image segmentation, and visual understanding.
-- 🔬 **Research & Innovation:** Investigating deep learning architectures and evaluating experimental results.
-- 🎨 **UI/UX Design:** Creating intuitive experiences through wireframes, design systems, and prototypes.
-- 🧠 **LLMs & Generative AI:** Exploring large language models and AI-powered software.
 
 ## ❤️ What I Like
 
