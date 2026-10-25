@@ -307,21 +307,32 @@ Interface design concepts focused on usability and user experience.
 
 ## 🎧 What I'm Listening To
 
+
+<!-- SPOTIFY RECENTLY PLAYED -->
+
+<h2 align="center">🎧 What I'm Listening To</h2>
+
 <div align="center">
 
   <a href="https://open.spotify.com/user/31ncxglfgsevu4af66uswoq5hfke">
     <img
+      src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ncxglfgsevu4af66uswoq5hfke&theme=dark&count=5&footer=wave"
+      alt="My recently played Spotify tracks"
       width="400"
-      src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ncxglfgsevu4af66uswoq5hfke&footer=wave"
-      alt="Recently played tracks on Spotify"
     />
   </a>
 
-  <p>
-    🎵 <a href="https://open.spotify.com/user/31ncxglfgsevu4af66uswoq5hfke">Visit my Spotify profile</a>
-  </p>
+  <br/><br/>
+
+  <a href="https://open.spotify.com/user/31ncxglfgsevu4af66uswoq5hfke">
+    <img
+      src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+      alt="Listen on Spotify"
+    />
+  </a>
 
 </div>
+
 
 ---
 
