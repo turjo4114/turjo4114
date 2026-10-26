@@ -22,8 +22,9 @@
     alt="Animated developer tagline"
   />
 
-  <br/><br/>
-
+   <img src="https://komarev.com/ghpvc/?username=turjo4114&style=for-the-badge&color=0891b2&label=CURIOUS+VISITORS" alt="Profile views"/>
+<br/><br/>
+  
   <a href="https://github.com/turjo4114">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Universe-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
@@ -33,10 +34,6 @@
   <a href="https://www.hackerrank.com/profile/turjo4114">
     <img src="https://img.shields.io/badge/HackerRank-My%20Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
   </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=turjo4114&style=for-the-badge&color=0891b2&label=CURIOUS+VISITORS" alt="Profile views"/>
 
 </div>
 
