@@ -6,12 +6,12 @@
 <div align="center">
 
   <img
-    src="https://i.pinimg.com/1200x/97/40/ca/9740ca623b3daa6c18766d9d9748591f.jpg"
-    width="100%"
+    src="https://i.pinimg.com/736x/d1/be/7d/d1be7df508903bc3a2eb421bc2e27b71.jpg"
+    width="70%"
     alt="Developer universe animation"
   />
 
-  <br/><br/>
+  
 
   <h1>⚡ SADID AHMED TURJO</h1>
 
