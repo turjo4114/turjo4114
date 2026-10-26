@@ -70,18 +70,22 @@
 
 </div>
 
-## 🖥️ `whoami`
+<div align="center">
 
-```text
-┌─────────────────────────────────────────────────┐
-│  USER       : Sadid Ahmed Turjo                 │
-│  MODE       : BUILD + EXPLORE + EXPERIMENT      │
-│  SPECIALTY  : Software Engineering & AI/ML      │
-│  CURRENTLY  : Leveling up my engineering skills │
-│  FUEL       : Curiosity, creativity & coffee ☕  │
-│  MISSION    : Turn ideas into real-world impact │
-└─────────────────────────────────────────────────┘
-```
+<h2>🖥️ <code>whoami</code></h2>
+
+<pre>
++--------------------------------------------------+
+| USER       : Sadid Ahmed Turjo                   |
+| MODE       : BUILD + EXPLORE + EXPERIMENT        |
+| SPECIALTY  : Software Engineering & AI/ML        |
+| CURRENTLY  : Leveling up my engineering skills   |
+| FUEL       : Curiosity, creativity & coffee      |
+| MISSION    : Turn ideas into real-world impact   |
++--------------------------------------------------+
+</pre>
+
+</div>
 
 ### ⚡ My brain, in 6 seconds
 
