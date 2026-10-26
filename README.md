@@ -352,27 +352,13 @@ Exploring digital experiences through DriveEase, TripNest and CourierOps.
 
 <div align="center">
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=turjo4114&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=turjo4114&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turjo4114&theme=tokyonight" alt="Profile overview"/>
 
-  <br/><br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=turjo4114&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turjo4114&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-  <img
-    width="90%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=turjo4114&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=turjo4114&theme=tokyo-night&hide_border=true&area=true&hide_title=true" alt="Contribution activity"/>
 
 </div>
-
 ---
 
 ## 🕹️ CONTRIBUTION ARCADE
