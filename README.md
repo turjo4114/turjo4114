@@ -6,8 +6,8 @@
 <div align="center">
 
   <img
-    src="https://i.pinimg.com/736x/d1/be/7d/d1be7df508903bc3a2eb421bc2e27b71.jpg"
-    width="70%"
+    src="https://i.pinimg.com/736x/c6/62/0c/c6620c761ef2000160553ec25c6ec83e.jpg"
+    width="35%"
     alt="Developer universe animation"
   />
 
