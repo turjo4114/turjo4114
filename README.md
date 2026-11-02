@@ -437,7 +437,7 @@ Exploring digital experiences through DriveEase, TripNest and CourierOps.
 
   <br/><br/>
 
-  <h2>⚡ BUILD. BREAK. LEARN. REPEAT. </h2>
+  <h2>⚡ BUILD. BREAK. LEARN. REPEAT. ⚡</h2>
 
   <p>
     <i>Somewhere between software engineering and artificial intelligence,<br/>
