@@ -6,14 +6,14 @@
 <div align="center">
 
   <img
-    src="https://i.pinimg.com/1200x/9d/f0/27/9df02751fe16b71b5cba2d5ae1bfdca3.jpg"
+    src="https://i.pinimg.com/736x/d3/fd/09/d3fd09d234163e9f21f3dbc93670e1e9.jpg"
     width="50%"
     alt="Developer universe animation"
   />
 
   
 
-  <h1>⚡ SADID AHMED TURJO</h1>
+  <h1> SADID AHMED TURJO</h1>
 
   <h3>🧑‍💻 Code Architect &nbsp; × &nbsp; 🤖 AI Explorer &nbsp; × &nbsp; 🔬 Research Mind</h3>
 
