@@ -1,4 +1,3 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d1fb29bd-0c59-4910-979c-3bd520e7bb1e" />
 <!-- ===================================================== -->
 <!--           SADID AHMED TURJO | DEVELOPER UNIVERSE       -->
 <!-- ===================================================== -->
