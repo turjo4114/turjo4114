@@ -6,7 +6,7 @@
 <div align="center">
 
   <img
-    src="https://i.pinimg.com/1200x/6d/d7/89/6dd789db91af578e5daf97697943bcd5.jpg"
+    src="https://i.pinimg.com/1200x/9d/f0/27/9df02751fe16b71b5cba2d5ae1bfdca3.jpg"
     width="50%"
     alt="Developer universe animation"
   />
